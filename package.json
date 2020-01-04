@@ -8,7 +8,7 @@
   "skpm": {
     "name": "paste-paddings",
     "manifest": "src/manifest.json",
-    "main": "{{ slug }}.sketchplugin",
+    "main": "paste-paddings.sketchplugin",
     "assets": [
       "assets/**/*"
     ],

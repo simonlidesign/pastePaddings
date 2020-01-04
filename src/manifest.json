@@ -1,0 +1,27 @@
+{
+  "name": "Paste Paddings",
+  "description": "Allows you to copy the paddings of one element and apply them to another",
+  "author": "Simon Li",
+  "authorEmail": "info@simon-li.com",
+  "homepage": "http://www.simon-li.com",
+  "version": "1.0",
+  "commands": [
+    {
+      "name": "Copy Paddings",
+      "identifier": "copyPaddings",
+      "script": "./paste-paddings.js",
+      "shortcut": "ctrl shift c",
+      "handler" : "copyPaddings"
+    },
+    {
+      "name": "Paste Paddings",
+      "identifier": "pastePaddings",
+      "script": "./paste-paddings.js",
+      "shortcut": "ctrl shift v",
+      "handler" : "pastePaddings"
+    }
+  ],
+  "menu": {
+    "items": ["copyPaddings", "pastePaddings"]
+  }
+}

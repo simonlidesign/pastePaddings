@@ -1,7 +1,7 @@
 {
   "name": "paste-paddings",
   "description": "Allows you to copy the paddings of one element and apply them to another",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "engines": {
     "sketch": ">=49.0"
   },

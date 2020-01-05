@@ -15,6 +15,8 @@ This plugin is designed to copy the paddings of one element to another. It can s
 - Select another element, typically in another artboard.
 - Hit cmd + shift + v to paste the new paddings.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZfZYPxDX9qI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Buy me a coffee
 
 If you find this plugin helpful, consider support me by buying me a coffee. :) It will help me create more useful plugins for you in the future.

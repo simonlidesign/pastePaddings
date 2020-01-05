@@ -15,7 +15,15 @@ This plugin is designed to copy the paddings of one element to another. It can s
 - Select another element, typically in another artboard.
 - Hit cmd + shift + v to paste the new paddings.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZfZYPxDX9qI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Copy and Paste Horizontal Paddings
+![Copy and paste horizontal paddings](https://raw.githubusercontent.com/simonlidesign/pastePaddings/master/Demos/Demo1.gif "Copy and paste horizontal paddings")
+
+## Copy and Paste Vertical Paddings 1
+![Copy and paste vertical paddings 1](https://raw.githubusercontent.com/simonlidesign/pastePaddings/master/Demos/Demo2.gif "Copy and paste vertical paddings 1")
+
+## Copy and Paste Vertical Paddings 2
+![Copy and paste vertical paddings 2](https://raw.githubusercontent.com/simonlidesign/pastePaddings/master/Demos/Demo3.gif "Copy and paste vertical paddings 2")
+
 
 ### Buy me a coffee
 

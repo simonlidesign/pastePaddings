@@ -24,6 +24,10 @@ This plugin is designed to copy the paddings of one element to another. It can s
 ## Copy and Paste Vertical Paddings 2
 ![Copy and paste vertical paddings 2](https://raw.githubusercontent.com/simonlidesign/pastePaddings/master/Demos/Demo3.gif "Copy and paste vertical paddings 2")
 
+### Feedback
+
+Any thoughts about the plugin? Send them to <info@simon-li.com>.
+
 
 ### Buy me a coffee
 

@@ -11,9 +11,9 @@
 This plugin is designed to copy the paddings of one element to another. It can speed up your workflow when you've changed the spacing of one element that's shared across different artboards and you'd like the new spacing to be applied to the same element in other artboards.
 
 - Select an element.
-- Hit cmd + shift + c to copy its paddings.
+- Hit ctrl + shift + c to copy its paddings.
 - Select another element, typically in another artboard.
-- Hit cmd + shift + v to paste the new paddings.
+- Hit ctrl + shift + v to paste the new paddings.
 
 #### Copy and Paste Horizontal Paddings
 ![Copy and paste horizontal paddings](https://raw.githubusercontent.com/simonlidesign/pastePaddings/master/Demos/Demo1.gif "Copy and paste horizontal paddings")
